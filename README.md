@@ -1,4 +1,4 @@
-# AIML-projects
-### AIML stands for Artificial Intelligence & Machine Learning
+### Data Science
 
-This repo includes AIML projects done by myself for learning purpose
+- This repo stores data science projects completed by myself for summary purpose.
+- The projects here are are mainly from past learning.
