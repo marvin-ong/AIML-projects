@@ -3,7 +3,7 @@
 Come up with a customer profile (characteristics of a customer) of the different products
 Perform uni-variate and multi-variate analyses
 Generate a set of insights and recommendations that will help the company in targeting new customers
-Context - The data is for customers of the treadmill product(s) of a retail store called Cardio Good Fitness. It contains the following variables
+Context - The data is for customers of the treadmill product(s) of a retail store called Cardio Good Fitness. It contains the following variables:
 
 Product - the model no. of the treadmill <br>
 Age - in no of years, of the customer<br>
